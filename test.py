@@ -4,4 +4,3 @@ def test(a, b):
 
 def test1(b):
     return False
-
